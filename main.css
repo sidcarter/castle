@@ -1,0 +1,35 @@
+body {
+	margin: 50px;
+	width: 500px;
+	background-color: #fee;
+	font-family: Helvetica Neue, Helvetica, Lucida Sans;
+	font-size: 10pt;
+}
+
+#content {
+	border-radius: 12px;
+	padding: 20px;
+	color: #fee;
+	background-color: #122;
+}
+
+a {
+	color: #f00;
+}
+
+.question {
+	font-weight: bold;
+}
+
+.answer {
+	margin-bottom: 20px;
+}
+
+.em {
+	font-style: italic;
+}
+
+.footer {
+	margin: 0 0 0;
+	padding: 50px 0 0;
+}
