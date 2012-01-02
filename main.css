@@ -8,9 +8,9 @@ body {
 
 #content {
 	border-radius: 12px;
-	padding: 20px;
-	color: #fee;
-	background-color: #122;
+	padding: 20px 20px 0;
+	color: #122;
+	background-color: #fee;
 }
 
 a {
